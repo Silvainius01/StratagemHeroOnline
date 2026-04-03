@@ -1,332 +1,694 @@
 [
   {
-    "name": "Reinforce",
-    "sequence": "UDRLU",
-    "image": "reinforce.svg"
-  },
-  {
-    "name": "Resupply",
-    "sequence": "DDUR",
-    "image": "resupply.svg"
-  },
-  {
-    "name": "SOS Beacon",
-    "sequence": "UDRU",
-    "image": "sos_beacon.svg"
-  },
-  {
-    "name": "SEAF Artillery",
-    "sequence": "RUUD",
-    "image": "seaf_artillery.svg"
-  },
-  {
-    "name": "Hellbomb",
-    "sequence": "DULDURDU",
-    "image": "hellbomb.svg"
-  },
-  {
-    "name": "Prospecting Drill",
-    "sequence": "DDLRDD",
-    "image": "prospecting_drill.svg"
-  },
-  {
-    "name": "Seismic Probe",
-    "sequence": "UULRDD",
-    "image": "seismic_probe.svg"
-  },
-  {
-    "name": "Super Earth Flag",
-    "sequence": "DUDU",
-    "image": "super_earth_flag.svg"
-  },
-  {
-    "name": "Upload Data",
-    "sequence": "LRUUU",
-    "image": "upload_data.svg"
-  },
-  {
     "name": "Machine Gun",
     "sequence": "DLDUR",
-    "image": "machine_gun.svg"
-  },
-  {
-    "name": "Anti-Materiel Rifle",
-    "sequence": "DLRUD",
-    "image": "anti-materiel_rifle.svg"
-  },
-  {
-    "name": "Stalwart",
-    "sequence": "DLDUUL",
-    "image": "stalwart.svg"
+    "image": "weapon_machine_gun.svg",
+    "category": "weapon",
+    "source": "Patriotic Administration Center",
+    "color": "blue"
   },
   {
     "name": "Expendable Anti-Tank",
     "sequence": "DDLUR",
-    "image": "expendable_anti-tank.svg"
+    "image": "weapon_expendable_anti-tank.svg",
+    "category": "weapon",
+    "source": "Patriotic Administration Center",
+    "color": "blue"
   },
   {
-    "name": "Recoilless Rifle",
-    "sequence": "DLRRL",
-    "image": "recoilless_rifle.svg"
-  },
-  {
-    "name": "Flamethrower",
-    "sequence": "DLUDU",
-    "image": "flamethrower.svg"
-  },
-  {
-    "name": "Autocannon",
-    "sequence": "DLDUUR",
-    "image": "autocannon.svg"
-  },
-  {
-    "name": "Railgun",
-    "sequence": "DRDULR",
-    "image": "railgun.svg"
-  },
-  {
-    "name": "Spear",
-    "sequence": "DDUDD",
-    "image": "spear.svg"
-  },
-  {
-    "name": "Quasar Cannon LAS-99",
-    "sequence": "DDULR",
-    "image": "quasar_cannon.svg"
-  },
-  {
-    "name": "Airburst Rocket Launcher",
-    "sequence": "DUULR",
-    "image": "airburst_rocket_launcher.svg"
-  },
-  {
-    "name": "Orbital Gatling Barrage",
-    "sequence": "RDLUU",
-    "image": "orbital_gatling_barrage.svg"
-  },
-  {
-    "name": "Orbital Airburst Strike",
-    "sequence": "RRR",
-    "image": "orbital_airburst_strike.svg"
-  },
-  {
-    "name": "Orbital 120MM HE Barrage",
-    "sequence": "RRDLRD",
-    "image": "orbital_120mm_he_barrage.svg"
-  },
-  {
-    "name": "Orbital 380MM HE Barrage",
-    "sequence": "RDUULDD",
-    "image": "orbital_380mm_he_barrage.svg"
-  },
-  {
-    "name": "Orbital Walking Barrage",
-    "sequence": "RDRDRD",
-    "image": "orbital_walking_barrage.svg"
-  },
-  {
-    "name": "Orbital Laser",
-    "sequence": "RDURD",
-    "image": "orbital_laser.svg"
-  },
-  {
-    "name": "Orbital Railcannon Strike",
-    "sequence": "RUDDR",
-    "image": "orbital_railcannon_strike.svg"
-  },
-  {
-    "name": "Eagle Strafing Run",
-    "sequence": "URR",
-    "image": "eagle_strafing_run.svg"
-  },
-  {
-    "name": "Eagle Airstrike",
-    "sequence": "URDR",
-    "image": "eagle_airstrike.svg"
-  },
-  {
-    "name": "Eagle Cluster Bomb",
-    "sequence": "URDDR",
-    "image": "eagle_cluster_bomb.svg"
-  },
-  {
-    "name": "Eagle Napalm Airstrike",
-    "sequence": "URDU",
-    "image": "eagle_napalm_airstrike.svg"
-  },
-  {
-    "name": "Jump Pack",
-    "sequence": "DUUDU",
-    "image": "jump_pack.svg"
-  },
-  {
-    "name": "Eagle Smoke Strike",
-    "sequence": "URUD",
-    "image": "eagle_smoke_strike.svg"
-  },
-  {
-    "name": "Eagle 110MM Rocket Pods",
-    "sequence": "URUL",
-    "image": "eagle_110mm_rocket_pods.svg"
-  },
-  {
-    "name": "Eagle 500KG Bomb",
-    "sequence": "URDDD",
-    "image": "eagle_500kg_bomb.svg"
-  },
-  {
-    "name": "Eagle Rearm",
-    "sequence": "UULUR",
-    "image": "eagle_rearm.svg"
-  },
-  {
-    "name": "Orbital Precision Strike",
-    "sequence": "RRU",
-    "image": "orbital_precision_strike.svg"
-  },
-  {
-    "name": "Orbital Gas Strike",
-    "sequence": "RRDR",
-    "image": "orbital_gas_strike.svg"
-  },
-  {
-    "name": "Orbital EMS Strike",
-    "sequence": "RRLD",
-    "image": "orbital_ems_strike.svg"
-  },
-  {
-    "name": "Orbital Smoke Strike",
-    "sequence": "RRDU",
-    "image": "orbital_smoke_strike.svg"
-  },
-  {
-    "name": "HMG Emplacement",
-    "sequence": "DULRRL",
-    "image": "hmg_emplacement.svg"
-  },
-  {
-    "name": "Shield Generator Pack",
-    "sequence": "DULRLR",
-    "image": "shield_generator_pack.svg"
-  },
-  {
-    "name": "Tesla Tower",
-    "sequence": "DURULR",
-    "image": "tesla_tower.svg"
-  },
-  {
-    "name": "Anti-Personnel Minefield",
-    "sequence": "DLUR",
-    "image": "anti-personnel_minefield.svg"
-  },
-  {
-    "name": "Supply Pack",
-    "sequence": "DLDUUD",
-    "image": "supply_pack.svg"
-  },
-  {
-    "name": "Grenade Launcher",
-    "sequence": "DLULD",
-    "image": "grenade_launcher.svg"
+    "name": "Stalwart",
+    "sequence": "DLDUUL",
+    "image": "weapon_stalwart.svg",
+    "category": "weapon",
+    "source": "Patriotic Administration Center",
+    "color": "blue"
   },
   {
     "name": "Laser Cannon",
     "sequence": "DLDUL",
-    "image": "laser_cannon.svg"
+    "image": "weapon_laser_cannon.svg",
+    "category": "weapon",
+    "source": "Engineering Bay",
+    "color": "blue"
   },
   {
-    "name": "Incendiary Mines",
-    "sequence": "DLLD",
-    "image": "incendiary_mines.svg"
+    "name": "Anti-Materiel Rifle",
+    "sequence": "DLRUD",
+    "image": "weapon_anti-materiel_rifle.svg",
+    "category": "weapon",
+    "source": "Patriotic Administration Center",
+    "color": "blue"
   },
   {
-    "name": "Guard Dog Rover",
-    "sequence": "DULURR",
-    "image": "guard_dog_rover.svg"
+    "name": "Recoilless Rifle",
+    "sequence": "DLRRL",
+    "image": "weapon_recoilless_rifle.svg",
+    "category": "weapon",
+    "source": "Patriotic Administration Center",
+    "color": "blue"
   },
   {
-    "name": "Ballistic Shield Backpack",
-    "sequence": "DLDDUL",
-    "image": "ballistic_shield_backpack.svg"
+    "name": "Grenade Launcher",
+    "sequence": "DLULD",
+    "image": "weapon_grenade_launcher.svg",
+    "category": "weapon",
+    "source": "Engineering Bay",
+    "color": "blue"
   },
   {
-    "name": "Arc Thrower",
-    "sequence": "DRDULL",
-    "image": "arc_thrower.svg"
-  },
-  {
-    "name": "Shield Generator Relay",
-    "sequence": "DDLRLR",
-    "image": "shield_generator_relay.svg"
+    "name": "Flamethrower",
+    "sequence": "DLUDU",
+    "image": "weapon_flamethrower.svg",
+    "category": "weapon",
+    "source": "Patriotic Administration Center",
+    "color": "blue"
   },
   {
     "name": "Heavy Machine Gun MG-101",
     "sequence": "DLUDD",
-    "image": "heavy_machine_gun.svg"
+    "image": "weapon_heavy_machine_gun.svg",
+    "category": "weapon",
+    "source": "Patriotic Administration Center",
+    "color": "blue"
   },
   {
-    "name": "Machine Gun Sentry",
-    "sequence": "DURRU",
-    "image": "machine_gun_sentry.svg"
+    "name": "Autocannon",
+    "sequence": "DLDUUR",
+    "image": "weapon_autocannon.svg",
+    "category": "weapon",
+    "source": "Patriotic Administration Center",
+    "color": "blue"
   },
   {
-    "name": "Gatling Sentry",
-    "sequence": "DURL",
-    "image": "gatling_sentry.svg"
+    "name": "Arc Thrower",
+    "sequence": "DRDULL",
+    "image": "weapon_arc_thrower.svg",
+    "category": "weapon",
+    "source": "Engineering Bay",
+    "color": "blue"
   },
   {
-    "name": "Mortar Sentry",
-    "sequence": "DURRD",
-    "image": "mortar_sentry.svg"
+    "name": "Quasar Cannon LAS-99",
+    "sequence": "DDULR",
+    "image": "weapon_quasar_cannon.svg",
+    "category": "weapon",
+    "source": "Engineering Bay",
+    "color": "blue"
   },
   {
-    "name": "Guard Dog",
-    "sequence": "DULURD",
-    "image": "guard_dog.svg"
-  },
-  {
-    "name": "Autocannon Sentry",
-    "sequence": "DURULU",
-    "image": "autocannon_sentry.svg"
-  },
-  {
-    "name": "Rocket Sentry",
-    "sequence": "DURRL",
-    "image": "rocket_sentry.svg"
-  },
-  {
-    "name": "EMS Mortar Sentry",
-    "sequence": "DURDR",
-    "image": "ems_mortar_sentry.svg"
-  },
-  {
-    "name": "Patriot Exosuit",
-    "sequence": "LDRULDD",
-    "image": "patriot_exosuit.svg"
+    "name": "Airburst Rocket Launcher",
+    "sequence": "DUULR",
+    "image": "weapon_airburst_rocket_launcher.svg",
+    "category": "weapon",
+    "source": "Patriotic Administration Center",
+    "color": "blue"
   },
   {
     "name": "Commando",
     "sequence": "DLUDR",
-    "image": "commando.svg"
+    "image": "weapon_commando.svg",
+    "category": "weapon",
+    "source": "Patriotic Administration Center",
+    "color": "blue"
   },
   {
-    "name": "Dark Fluid Vessel",
-    "sequence": "ULRDUU",
-    "image": "dark_fluid_vessel.svg"
+    "name": "Spear",
+    "sequence": "DDUDD",
+    "image": "weapon_spear.svg",
+    "category": "weapon",
+    "source": "Patriotic Administration Center",
+    "color": "blue"
+  },
+  {
+    "name": "Railgun",
+    "sequence": "DRDULR",
+    "image": "weapon_railgun.svg",
+    "category": "weapon",
+    "source": "Patriotic Administration Center",
+    "color": "blue"
+  },
+  {
+    "name": "WASP Launcher",
+    "sequence": "DDUDR",
+    "image": "weapon_wasp_launcher.svg",
+    "category": "weapon",
+    "source": "Patriotic Administration Center",
+    "color": "blue"
+  },
+  {
+    "name": "Breaching Hammer",
+    "sequence": "DLRLU",
+    "image": "weapon_breaching_hammer.svg",
+    "category": "weapon",
+    "source": "Siege Breakers",
+    "color": "blue"
+  },
+  {
+    "name": "Epoch",
+    "sequence": "DLULR",
+    "image": "weapon_epoch.svg",
+    "category": "weapon",
+    "source": "Control Group",
+    "color": "blue"
+  },
+  {
+    "name": "Spear Gun",
+    "sequence": "DRDLUR",
+    "image": "weapon_spear_gun.svg",
+    "category": "weapon",
+    "source": "Dust Devils",
+    "color": "blue"
+  },
+  {
+    "name": "Expendable Napalm",
+    "sequence": "DDLUR",
+    "image": "weapon_expendable_napalm.svg",
+    "category": "weapon",
+    "source": "Dust Devils",
+    "color": "blue"
+  },
+  {
+    "name": "Leveller",
+    "sequence": "DDRLUD",
+    "image": "weapon_leveller.svg",
+    "category": "weapon",
+    "source": "Siege Breakers",
+    "color": "blue"
+  },
+  {
+    "name": "De-Escalator",
+    "sequence": "DRULR",
+    "image": "weapon_de-escalator.svg",
+    "category": "weapon",
+    "source": "Force of Law",
+    "color": "blue"
+  },
+  {
+    "name": "Defoliation Tool",
+    "sequence": "DLRRD",
+    "image": "weapon_defoliation_tool.svg",
+    "category": "weapon",
+    "source": "Python Commandos",
+    "color": "blue"
+  },
+  {
+    "name": "Sterilizer",
+    "sequence": "DLUDL",
+    "image": "weapon_sterilizer.svg",
+    "category": "weapon",
+    "source": "Chemical Agents",
+    "color": "blue"
+  },
+  {
+    "name": "Belt-Fed Grenade Launcher",
+    "sequence": "DLULUU",
+    "image": "weapon_belt_fed_grenade_launcher.svg",
+    "category": "weapon",
+    "source": "Siege Breakers",
+    "color": "blue"
+  },
+  {
+    "name": "Solo Silo",
+    "sequence": "DURDD",
+    "image": "weapon_solo_silo.svg",
+    "category": "weapon",
+    "source": "Dust Devils",
+    "color": "blue"
+  },
+  {
+    "name": "Cremator",
+    "sequence": "DDRDUU",
+    "image": "weapon_cremator.svg",
+    "category": "weapon",
+    "source": "Entrenched Division",
+    "color": "blue"
+  },
+  {
+    "name": "Maxigun",
+    "sequence": "DLRDUU",
+    "image": "weapon_maxigun.svg",
+    "category": "weapon",
+    "source": "Python Commandos",
+    "color": "blue"
+  },
+  {
+    "name": "C4 Pack",
+    "sequence": "DRUURU",
+    "image": "weapon_c4_pack.svg",
+    "category": "weapon",
+    "source": "Redacted Regiment",
+    "color": "blue"
+  },
+  {
+    "name": "One True Flag",
+    "sequence": "DLRRU",
+    "image": "weapon_name.svg",
+    "category": "weapon",
+    "source": "Masters of Ceremony",
+    "color": "blue"
+  },
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Orbital Gatling Barrage",
+    "sequence": "RDLUU",
+    "image": "orbital_gatling_barrage.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Orbital Airburst Strike",
+    "sequence": "RRR",
+    "image": "orbital_airburst_strike.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Orbital 120MM HE Barrage",
+    "sequence": "RRDLRD",
+    "image": "orbital_120mm_he_barrage.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Orbital 380MM HE Barrage",
+    "sequence": "RDUULDD",
+    "image": "orbital_380mm_he_barrage.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Orbital Walking Barrage",
+    "sequence": "RDRDRD",
+    "image": "orbital_walking_barrage.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Orbital Laser",
+    "sequence": "RDURD",
+    "image": "orbital_laser.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Orbital Railcannon Strike",
+    "sequence": "RUDDR",
+    "image": "orbital_railcannon_strike.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Eagle Strafing Run",
+    "sequence": "URR",
+    "image": "eagle_strafing_run.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Eagle Airstrike",
+    "sequence": "URDR",
+    "image": "eagle_airstrike.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Eagle Cluster Bomb",
+    "sequence": "URDDR",
+    "image": "eagle_cluster_bomb.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Eagle Napalm Airstrike",
+    "sequence": "URDU",
+    "image": "eagle_napalm_airstrike.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Jump Pack",
+    "sequence": "DUUDU",
+    "image": "jump_pack.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Eagle Smoke Strike",
+    "sequence": "URUD",
+    "image": "eagle_smoke_strike.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Eagle 110MM Rocket Pods",
+    "sequence": "URUL",
+    "image": "eagle_110mm_rocket_pods.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Eagle 500KG Bomb",
+    "sequence": "URDDD",
+    "image": "eagle_500kg_bomb.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Orbital Precision Strike",
+    "sequence": "RRU",
+    "image": "orbital_precision_strike.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Orbital Gas Strike",
+    "sequence": "RRDR",
+    "image": "orbital_gas_strike.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Orbital EMS Strike",
+    "sequence": "RRLD",
+    "image": "orbital_ems_strike.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Orbital Smoke Strike",
+    "sequence": "RRDU",
+    "image": "orbital_smoke_strike.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "HMG Emplacement",
+    "sequence": "DULRRL",
+    "image": "hmg_emplacement.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Shield Generator Pack",
+    "sequence": "DULRLR",
+    "image": "shield_generator_pack.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Tesla Tower",
+    "sequence": "DURULR",
+    "image": "tesla_tower.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Anti-Personnel Minefield",
+    "sequence": "DLUR",
+    "image": "anti-personnel_minefield.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Supply Pack",
+    "sequence": "DLDUUD",
+    "image": "supply_pack.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Incendiary Mines",
+    "sequence": "DLLD",
+    "image": "incendiary_mines.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Guard Dog Rover",
+    "sequence": "DULURR",
+    "image": "guard_dog_rover.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Ballistic Shield Backpack",
+    "sequence": "DLDDUL",
+    "image": "ballistic_shield_backpack.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Shield Generator Relay",
+    "sequence": "DDLRLR",
+    "image": "shield_generator_relay.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Machine Gun Sentry",
+    "sequence": "DURRU",
+    "image": "machine_gun_sentry.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Gatling Sentry",
+    "sequence": "DURL",
+    "image": "gatling_sentry.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Mortar Sentry",
+    "sequence": "DURRD",
+    "image": "mortar_sentry.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Guard Dog",
+    "sequence": "DULURD",
+    "image": "guard_dog.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Autocannon Sentry",
+    "sequence": "DURULU",
+    "image": "autocannon_sentry.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Rocket Sentry",
+    "sequence": "DURRL",
+    "image": "rocket_sentry.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "EMS Mortar Sentry",
+    "sequence": "DURDR",
+    "image": "ems_mortar_sentry.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+  {
+    "name": "Patriot Exosuit",
+    "sequence": "LDRULDD",
+    "image": "patriot_exosuit.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
   },
   {
     "name": "Emancipator Exosuit",
     "sequence": "LDRULDU",
-    "image": "emancipator_exosuit.svg"
+    "image": "emancipator_exosuit.svg",
+    "category": "mission",
+    "source": "none",
+    "color": "yellow"
+  },
+
+
+
+
+
+
+
+
+  {
+    "name": "Reinforce",
+    "sequence": "UDRLU",
+    "image": "mission_ship_reinforce.svg",
+    "category": "mission",
+    "source": "Ship",
+    "color": "yellow"
   },
   {
-    "name": "Hive Breaker Drill",
-    "sequence": "LUDRDD",
-    "image": "hive_breaker_drill.svg"
+    "name": "Resupply",
+    "sequence": "DDUR",
+    "image": "mission_ship_resupply.svg",
+    "category": "mission",
+    "source": "Ship",
+    "color": "yellow"
+  },
+  {
+    "name": "SOS Beacon",
+    "sequence": "UDRU",
+    "image": "mission_ship_sos_beacon.svg",
+    "category": "mission",
+    "source": "Ship",
+    "color": "yellow"
+  },
+  {
+    "name": "Eagle Rearm",
+    "sequence": "UULUR",
+    "image": "mission_ship_eagle_rearm.svg",
+    "category": "mission",
+    "source": "Ship",
+    "color": "yellow"
+  },
+  {
+    "name": "Call Super Destroyer",
+    "sequence": "UULUR",
+    "image": "mission_ship_call_super_destroyer.svg",
+    "category": "mission",
+    "source": "Ship",
+    "color": "yellow"
+  },
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Hellbomb",
+    "sequence": "DULDURDU",
+    "image": "mission_objective_hellbomb.svg",
+    "category": "mission",
+    "source": "Objective",
+    "color": "yellow"
+  },
+  {
+    "name": "SEAF Artillery",
+    "sequence": "RUUD",
+    "image": "mission_objective_seaf_artillery.svg",
+    "category": "mission",
+    "source": "Objective",
+    "color": "yellow"
+  },
+  {
+    "name": "Super Earth Flag",
+    "sequence": "DUDU",
+    "image": "mission_objective_super_earth_flag.svg",
+    "category": "mission",
+    "source": "Objective",
+    "color": "yellow"
+  },
+  {
+    "name": "Upload Data",
+    "sequence": "LRUUU",
+    "image": "mission_objective_upload_data.svg",
+    "category": "mission",
+    "source": "Objective",
+    "color": "yellow"
+  },
+  {
+    "name": "SSSD Delivery",
+    "sequence": "DDDDDUU",
+    "image": "mission_objective_upload_data.svg",
+    "category": "mission",
+    "source": "Objective",
+    "color": "yellow"
+  },
+  {
+    "name": "Seismic Probe",
+    "sequence": "UULRDD",
+    "image": "mission_objective_seismic_probe.svg",
+    "category": "mission",
+    "source": "Objective",
+    "color": "yellow"
+  },
+  {
+    "name": "Prospecting Drill",
+    "sequence": "DDLRDD",
+    "image": "mission_objective_prospecting_drill.svg",
+    "category": "mission",
+    "source": "Objective",
+    "color": "yellow"
+  },
+  {
+    "name": "Dark Fluid Vessel",
+    "sequence": "ULRDUU",
+    "image": "mission_objective_dark_fluid_vessel.svg",
+    "category": "mission",
+    "source": "Objective",
+    "color": "yellow"
   },
   {
     "name": "Tectonic Drill",
     "sequence": "UDUDUD",
-    "image": "tectonic_drill.svg"
+    "image": "mission_objective_tectonic_drill.svg",
+    "category": "mission",
+    "source": "Objective",
+    "color": "yellow"
+  },
+  {
+    "name": "Hive Breaker Drill",
+    "sequence": "LUDRDD",
+    "image": "mission_objective_hive_breaker_drill.svg",
+    "category": "mission",
+    "source": "Objective",
+    "color": "yellow"
   }
 ]
