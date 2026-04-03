@@ -169,7 +169,7 @@
   },
   {
     "name": "Leveller",
-    "sequence": "Ds",
+    "sequence": "DDLUD",
     "image": "weapon_leveller.svg",
     "category": "weapon",
     "source": "Siege Breakers",
