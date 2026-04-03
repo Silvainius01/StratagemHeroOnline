@@ -2,252 +2,327 @@
   {
     "name": "Machine Gun",
     "sequence": "DLDUR",
-    "image": "weapon_machine_gun.svg",
-    "category": "weapon",
-    "source": "Patriotic Administration Center",
-    "color": "blue"
+    "image": "Weapon_machine_gun.svg",
+    "lists": [
+      "Weapon",
+      "Patriotic Administration Center",
+      "Blue",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Expendable Anti-Tank",
     "sequence": "DDLUR",
-    "image": "weapon_expendable_anti-tank.svg",
-    "category": "weapon",
-    "source": "Patriotic Administration Center",
-    "color": "blue"
+    "image": "Weapon_expendable_anti-tank.svg",
+    "lists": [
+      "Weapon",
+      "Patriotic Administration Center",
+      "Blue",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Stalwart",
     "sequence": "DLDUUL",
-    "image": "weapon_stalwart.svg",
-    "category": "weapon",
-    "source": "Patriotic Administration Center",
-    "color": "blue"
+    "image": "Weapon_stalwart.svg",
+    "lists": [
+      "Weapon",
+      "Patriotic Administration Center",
+      "Blue",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Laser Cannon",
     "sequence": "DLDUL",
-    "image": "weapon_laser_cannon.svg",
-    "category": "weapon",
-    "source": "Engineering Bay",
-    "color": "blue"
+    "image": "Weapon_laser_cannon.svg",
+    "lists": [
+      "Weapon",
+      "Engineering Bay",
+      "Blue",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Anti-Materiel Rifle",
     "sequence": "DLRUD",
-    "image": "weapon_anti-materiel_rifle.svg",
-    "category": "weapon",
-    "source": "Patriotic Administration Center",
-    "color": "blue"
+    "image": "Weapon_anti-materiel_rifle.svg",
+    "lists": [
+      "Weapon",
+      "Patriotic Administration Center",
+      "Blue",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Recoilless Rifle",
     "sequence": "DLRRL",
-    "image": "weapon_recoilless_rifle.svg",
-    "category": "weapon",
-    "source": "Patriotic Administration Center",
-    "color": "blue"
+    "image": "Weapon_recoilless_rifle.svg",
+    "lists": [
+      "Weapon",
+      "Patriotic Administration Center",
+      "Blue",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Grenade Launcher",
     "sequence": "DLULD",
-    "image": "weapon_grenade_launcher.svg",
-    "category": "weapon",
-    "source": "Engineering Bay",
-    "color": "blue"
+    "image": "Weapon_grenade_launcher.svg",
+    "lists": [
+      "Weapon",
+      "Engineering Bay",
+      "Blue"
+    ]
   },
   {
     "name": "Flamethrower",
     "sequence": "DLUDU",
-    "image": "weapon_flamethrower.svg",
-    "category": "weapon",
-    "source": "Patriotic Administration Center",
-    "color": "blue"
+    "image": "Weapon_flamethrower.svg",
+    "lists": [
+      "Weapon",
+      "Patriotic Administration Center",
+      "Blue"
+    ]
   },
   {
     "name": "Heavy Machine Gun MG-101",
     "sequence": "DLUDD",
-    "image": "weapon_heavy_machine_gun.svg",
-    "category": "weapon",
-    "source": "Patriotic Administration Center",
-    "color": "blue"
+    "image": "Weapon_heavy_machine_gun.svg",
+    "lists": [
+      "Weapon",
+      "Patriotic Administration Center",
+      "Blue",
+      "BonusHero"
+    ]
   },
   {
     "name": "Autocannon",
     "sequence": "DLDUUR",
-    "image": "weapon_autocannon.svg",
-    "category": "weapon",
-    "source": "Patriotic Administration Center",
-    "color": "blue"
+    "image": "Weapon_autocannon.svg",
+    "lists": [
+      "Weapon",
+      "Patriotic Administration Center",
+      "Blue",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Arc Thrower",
     "sequence": "DRDULL",
-    "image": "weapon_arc_thrower.svg",
-    "category": "weapon",
-    "source": "Engineering Bay",
-    "color": "blue"
+    "image": "Weapon_arc_thrower.svg",
+    "lists": [
+      "Weapon",
+      "Engineering Bay",
+      "Blue"
+    ]
   },
   {
     "name": "Quasar Cannon LAS-99",
     "sequence": "DDULR",
-    "image": "weapon_quasar_cannon.svg",
-    "category": "weapon",
-    "source": "Engineering Bay",
-    "color": "blue"
+    "image": "Weapon_quasar_cannon.svg",
+    "lists": [
+      "Weapon",
+      "Engineering Bay",
+      "Blue"
+    ]
   },
   {
     "name": "Airburst Rocket Launcher",
     "sequence": "DUULR",
-    "image": "weapon_airburst_rocket_launcher.svg",
-    "category": "weapon",
-    "source": "Patriotic Administration Center",
-    "color": "blue"
+    "image": "Weapon_airburst_rocket_launcher.svg",
+    "lists": [
+      "Weapon",
+      "Patriotic Administration Center",
+      "Blue"
+    ]
   },
   {
     "name": "Commando",
     "sequence": "DLUDR",
-    "image": "weapon_commando.svg",
-    "category": "weapon",
-    "source": "Patriotic Administration Center",
-    "color": "blue"
+    "image": "Weapon_commando.svg",
+    "lists": [
+      "Weapon",
+      "Patriotic Administration Center",
+      "Blue"
+    ]
   },
   {
     "name": "Spear",
     "sequence": "DDUDD",
-    "image": "weapon_spear.svg",
-    "category": "weapon",
-    "source": "Patriotic Administration Center",
-    "color": "blue"
+    "image": "Weapon_spear.svg",
+    "lists": [
+      "Weapon",
+      "Patriotic Administration Center",
+      "Blue"
+    ]
   },
   {
     "name": "Railgun",
     "sequence": "DRDULR",
-    "image": "weapon_railgun.svg",
-    "category": "weapon",
-    "source": "Patriotic Administration Center",
-    "color": "blue"
+    "image": "Weapon_railgun.svg",
+    "lists": [
+      "Weapon",
+      "Patriotic Administration Center",
+      "Blue",
+      "StratagemHero"
+    ]
   },
   {
     "name": "WASP Launcher",
     "sequence": "DDUDR",
-    "image": "weapon_wasp_launcher.svg",
-    "category": "weapon",
-    "source": "Patriotic Administration Center",
-    "color": "blue"
+    "image": "Weapon_wasp_launcher.svg",
+    "lists": [
+      "Weapon",
+      "Patriotic Administration Center",
+      "Blue"
+    ]
   },
   {
     "name": "Breaching Hammer",
     "sequence": "DLRLU",
-    "image": "weapon_breaching_hammer.svg",
-    "category": "weapon",
-    "source": "Siege Breakers",
-    "color": "blue"
+    "image": "Weapon_breaching_hammer.svg",
+    "lists": [
+      "Weapon",
+      "Siege Breakers",
+      "Blue"
+    ]
   },
   {
     "name": "Epoch",
     "sequence": "DLULR",
-    "image": "weapon_epoch.svg",
-    "category": "weapon",
-    "source": "Control Group",
-    "color": "blue"
+    "image": "Weapon_epoch.svg",
+    "lists": [
+      "Weapon",
+      "Control Group",
+      "Blue",
+      "BonusHero"
+    ]
   },
   {
     "name": "Spear Gun",
     "sequence": "DRDLUR",
-    "image": "weapon_spear_gun.svg",
-    "category": "weapon",
-    "source": "Dust Devils",
-    "color": "blue"
+    "image": "Weapon_spear_gun.svg",
+    "lists": [
+      "Weapon",
+      "Dust Devils",
+      "Blue",
+      "BonusHero"
+    ]
   },
   {
     "name": "Expendable Napalm",
     "sequence": "DDLUL",
-    "image": "weapon_expendable_napalm.svg",
-    "category": "weapon",
-    "source": "Dust Devils",
-    "color": "blue"
+    "image": "Weapon_expendable_napalm.svg",
+    "lists": [
+      "Weapon",
+      "Dust Devils",
+      "Blue"
+    ]
   },
   {
     "name": "Leveller",
     "sequence": "DDLUD",
-    "image": "weapon_leveller.svg",
-    "category": "weapon",
-    "source": "Siege Breakers",
-    "color": "blue"
+    "image": "Weapon_leveller.svg",
+    "lists": [
+      "Weapon",
+      "Siege Breakers",
+      "Blue"
+    ]
   },
   {
     "name": "De-Escalator",
     "sequence": "DRULR",
-    "image": "weapon_de-escalator.svg",
-    "category": "weapon",
-    "source": "Force of Law",
-    "color": "blue"
+    "image": "Weapon_de-escalator.svg",
+    "lists": [
+      "Weapon",
+      "Force of Law",
+      "Blue",
+      "BonusHero"
+    ]
   },
   {
     "name": "Defoliation Tool",
     "sequence": "DLRRD",
-    "image": "weapon_defoliation_tool.svg",
-    "category": "weapon",
-    "source": "Python Commandos",
-    "color": "blue"
+    "image": "Weapon_defoliation_tool.svg",
+    "lists": [
+      "Weapon",
+      "Python Commandos",
+      "Blue"
+    ]
   },
   {
     "name": "Sterilizer",
     "sequence": "DLUDL",
-    "image": "weapon_sterilizer.svg",
-    "category": "weapon",
-    "source": "Chemical Agents",
-    "color": "blue"
+    "image": "Weapon_sterilizer.svg",
+    "lists": [
+      "Weapon",
+      "Chemical Agents",
+      "Blue"
+    ]
   },
   {
     "name": "Belt-Fed Grenade Launcher",
     "sequence": "DLULUU",
-    "image": "weapon_belt_fed_grenade_launcher.svg",
-    "category": "weapon",
-    "source": "Siege Breakers",
-    "color": "blue"
+    "image": "Weapon_belt_fed_grenade_launcher.svg",
+    "lists": [
+      "Weapon",
+      "Siege Breakers",
+      "Blue"
+    ]
   },
   {
     "name": "Solo Silo",
     "sequence": "DURDD",
-    "image": "weapon_solo_silo.svg",
-    "category": "weapon",
-    "source": "Dust Devils",
-    "color": "blue"
+    "image": "Weapon_solo_silo.svg",
+    "lists": [
+      "Weapon",
+      "Dust Devils",
+      "Blue"
+    ]
   },
   {
     "name": "Cremator",
     "sequence": "DDRDUU",
-    "image": "weapon_cremator.svg",
-    "category": "weapon",
-    "source": "Entrenched Division",
-    "color": "blue"
+    "image": "Weapon_cremator.svg",
+    "lists": [
+      "Weapon",
+      "Entrenched Division",
+      "Blue"
+    ]
   },
   {
     "name": "Maxigun",
     "sequence": "DLRDUU",
-    "image": "weapon_maxigun.svg",
-    "category": "weapon",
-    "source": "Python Commandos",
-    "color": "blue"
+    "image": "Weapon_maxigun.svg",
+    "lists": [
+      "Weapon",
+      "Python Commandos",
+      "Blue"
+    ]
   },
   {
     "name": "C4 Pack",
     "sequence": "DRUURU",
-    "image": "weapon_c4_pack.svg",
-    "category": "weapon",
-    "source": "Redacted Regiment",
-    "color": "blue"
+    "image": "Weapon_c4_pack.svg",
+    "lists": [
+      "Weapon",
+      "Redacted Regiment",
+      "Blue",
+      "BonusHero"
+    ]
   },
   {
     "name": "One True Flag",
     "sequence": "DLRRU",
-    "image": "weapon_one_true_flag.svg",
-    "category": "weapon",
-    "source": "Masters of Ceremony",
-    "color": "blue"
+    "image": "Weapon_one_true_flag.svg",
+    "lists": [
+      "Weapon",
+      "Masters of Ceremony",
+      "Blue",
+      "BonusHero"
+    ]
   },
-
 
 
 
@@ -260,97 +335,133 @@
     "name": "Orbital Precision Strike",
     "sequence": "RRU",
     "image": "orbital_precision_strike.svg",
-    "category": "Orbital",
-    "source": "Bridge",
-    "color": "red"
+    "lists": [
+      "Orbital",
+      "Bridge",
+      "Red",
+      "BonusHero"
+    ]
   },
   {
     "name": "Orbital Gatling Barrage",
     "sequence": "RDLUU",
     "image": "orbital_gatling_barrage.svg",
-    "category": "Orbital",
-    "source": "Oribtal Cannons",
-    "color": "red"
+    "lists": [
+      "Orbital",
+      "Oribtal Cannons",
+      "Red",
+      "BonusHero"
+    ]
   },
   {
     "name": "Orbital Gas Strike",
     "sequence": "RRDR",
     "image": "orbital_gas_strike.svg",
-    "category": "Orbital",
-    "source": "Bridge",
-    "color": "red"
+    "lists": [
+      "Orbital",
+      "Bridge",
+      "Red",
+      "BonusHero"
+    ]
   },
   {
     "name": "Orbital 120MM HE Barrage",
     "sequence": "RRDLRD",
     "image": "orbital_120mm_he_barrage.svg",
-    "category": "Orbital",
-    "source": "Oribtal Cannons",
-    "color": "red"
+    "lists": [
+      "Orbital",
+      "Oribtal Cannons",
+      "Red",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Orbital Airburst Strike",
     "sequence": "RRR",
     "image": "orbital_airburst_strike.svg",
-    "category": "Orbital",
-    "source": "Oribtal Cannons",
-    "color": "red"
+    "lists": [
+      "Orbital",
+      "Oribtal Cannons",
+      "Red",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Orbital Smoke Strike",
     "sequence": "RRDU",
     "image": "orbital_smoke_strike.svg",
-    "category": "Orbital",
-    "source": "Bridge",
-    "color": "red"
+    "lists": [
+      "Orbital",
+      "Bridge",
+      "Red",
+      "BonusHero"
+    ]
   },
   {
     "name": "Orbital EMS Strike",
     "sequence": "RRLD",
     "image": "orbital_ems_strike.svg",
-    "category": "Orbital",
-    "source": "Bridge",
-    "color": "red"
+    "lists": [
+      "Orbital",
+      "Bridge",
+      "Red",
+      "BonusHero"
+    ]
   },
   {
     "name": "Orbital 380MM HE Barrage",
     "sequence": "RDUULDD",
     "image": "orbital_380mm_he_barrage.svg",
-    "category": "Orbital",
-    "source": "Oribtal Cannons",
-    "color": "red"
+    "lists": [
+      "Orbital",
+      "Oribtal Cannons",
+      "Red",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Orbital Walking Barrage",
     "sequence": "RDRDRD",
     "image": "orbital_walking_barrage.svg",
-    "category": "Orbital",
-    "source": "Oribtal Cannons",
-    "color": "red"
+    "lists": [
+      "Orbital",
+      "Oribtal Cannons",
+      "Red",
+      "BonusHero"
+    ]
   },
   {
     "name": "Orbital Laser",
     "sequence": "RDURD",
     "image": "orbital_laser.svg",
-    "category": "Orbital",
-    "source": "Oribtal Cannons",
-    "color": "red"
+    "lists": [
+      "Orbital",
+      "Oribtal Cannons",
+      "Red",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Orbital Napalm Barrage",
     "sequence": "RRDLRU",
     "image": "orbital_napalm_barrage.svg",
-    "category": "Orbital",
-    "source": "Oribtal Cannons",
-    "color": "red"
+    "lists": [
+      "Orbital",
+      "Oribtal Cannons",
+      "Red",
+      "BonusHero"
+    ]
   },
   {
     "name": "Orbital Railcannon Strike",
     "sequence": "RUDDR",
     "image": "orbital_railcannon_strike.svg",
-    "category": "Orbital",
-    "source": "Oribtal Cannons",
-    "color": "red"
+    "lists": [
+      "Orbital",
+      "Oribtal Cannons",
+      "Red",
+      "BonusHero"
+    ]
   },
 
 
@@ -358,142 +469,173 @@
 
 
 
-  
+
+
   {
     "name": "Eagle Strafing Run",
     "sequence": "URR",
     "image": "eagle_strafing_run.svg",
-    "category": "Eagle",
-    "source": "Hangar",
-    "color": "red"
+    "lists": [
+      "Eagle",
+      "Hangar",
+      "Red",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Eagle Airstrike",
     "sequence": "URDR",
     "image": "eagle_airstrike.svg",
-    "category": "Eagle",
-    "source": "Hangar",
-    "color": "red"
+    "lists": [
+      "Eagle",
+      "Hangar",
+      "Red",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Eagle Cluster Bomb",
     "sequence": "URDDR",
     "image": "eagle_cluster_bomb.svg",
-    "category": "Eagle",
-    "source": "Hangar",
-    "color": "red"
+    "lists": [
+      "Eagle",
+      "Hangar",
+      "Red"
+    ]
   },
   {
     "name": "Eagle Smoke Strike",
     "sequence": "URUD",
     "image": "eagle_smoke_strike.svg",
-    "category": "Eagle",
-    "source": "Hangar",
-    "color": "red"
+    "lists": [
+      "Eagle",
+      "Hangar",
+      "Red"
+    ]
   },
   {
     "name": "Eagle Napalm Airstrike",
     "sequence": "URDU",
     "image": "eagle_napalm_airstrike.svg",
-    "category": "Eagle",
-    "source": "Hangar",
-    "color": "red"
+    "lists": [
+      "Eagle",
+      "Hangar",
+      "Red"
+    ]
   },
   {
     "name": "Eagle 110MM Rocket Pods",
     "sequence": "URUL",
     "image": "eagle_110mm_rocket_pods.svg",
-    "category": "Eagle",
-    "source": "Hangar",
-    "color": "red"
+    "lists": [
+      "Eagle",
+      "Hangar",
+      "Red",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Eagle 500KG Bomb",
     "sequence": "URDDD",
     "image": "eagle_500kg_bomb.svg",
-    "category": "Eagle",
-    "source": "Hangar",
-    "color": "red"
+    "lists": [
+      "Eagle",
+      "Hangar",
+      "Red",
+      "StratagemHero"
+    ]
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
+
   {
     "name": "Anti-Personnel Minefield",
     "sequence": "DLUR",
     "image": "emplacement_anti-personnel_minefield.svg",
-    "category": "Emplacement",
-    "source": "Engineering Bay",
-    "color": "green"
+    "lists": [
+      "Emplacement",
+      "Engineering Bay",
+      "Green",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Incendiary Mines",
     "sequence": "DLLD",
     "image": "emplacement_incendiary_mines.svg",
-    "category": "Emplacement",
-    "source": "Engineering Bay",
-    "color": "green"
+    "lists": [
+      "Emplacement",
+      "Engineering Bay",
+      "Green"
+    ]
   },
   {
     "name": "Anti-Tank Mines",
     "sequence": "DLUU",
     "image": "emplacement_anti-tank_mines.svg",
-    "category": "Emplacement",
-    "source": "Engineering Bay",
-    "color": "green"
+    "lists": [
+      "Emplacement",
+      "Engineering Bay",
+      "Green"
+    ]
   },
   {
     "name": "Shield Generator Relay",
     "sequence": "DDLRLR",
     "image": "emplacement_shield_generator_relay.svg",
-    "category": "Emplacement",
-    "source": "Bridge",
-    "color": "green"
+    "lists": [
+      "Emplacement",
+      "Bridge",
+      "Green",
+      "BonusHero"
+    ]
   },
   {
     "name": "HMG Emplacement",
     "sequence": "DULRRL",
     "image": "emplacement_hmg.svg",
-    "category": "Emplacement",
-    "source": "Bridge",
-    "color": "green"
+    "lists": [
+      "Emplacement",
+      "Bridge",
+      "Green",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Grenadier Battlement",
     "sequence": "DULRRL",
     "image": "emplacement_grenadier.svg",
-    "category": "Emplacement",
-    "source": "Bridge",
-    "color": "green"
+    "lists": [
+      "Emplacement",
+      "Bridge",
+      "Green"
+    ]
   },
   {
     "name": "Gas Mines",
     "sequence": "DLLR",
-    "image": "emplacement_gasa_mines.svg",
-    "category": "Emplacement",
-    "source": "Engineering Bay",
-    "color": "green"
+    "image": "emplacement_gas_mines.svg",
+    "lists": [
+      "Emplacement",
+      "Engineering Bay",
+      "Green"
+    ]
   },
   {
     "name": "Anti-Tank Emplacement",
     "sequence": "DULRRR",
     "image": "emplacement_gaming_chair.svg",
-    "category": "Emplacement",
-    "source": "Urban Legends",
-    "color": "green"
+    "lists": [
+      "Emplacement",
+      "Urban Legends",
+      "Green"
+    ]
   },
-
-
-
-
-
 
 
 
@@ -506,85 +648,112 @@
     "name": "Machine Gun Sentry",
     "sequence": "DURRU",
     "image": "sentry_machine_gun.svg",
-    "category": "Sentry",
-    "source": "Robotics Workshop",
-    "color": "green"
+    "lists": [
+      "Sentry",
+      "Robotics Workshop",
+      "Green",
+      "BonusHero"
+    ]
   },
   {
     "name": "Gatling Sentry",
     "sequence": "DURL",
     "image": "sentry_gatling.svg",
-    "category": "Sentry",
-    "source": "Robotics Workshop",
-    "color": "green"
+    "lists": [
+      "Sentry",
+      "Robotics Workshop",
+      "Green",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Autocannon Sentry",
     "sequence": "DURULU",
     "image": "sentry_autocannon.svg",
-    "category": "Sentry",
-    "source": "Robotics Workshop",
-    "color": "green"
+    "lists": [
+      "Sentry",
+      "Robotics Workshop",
+      "Green",
+      "BonusHero"
+    ]
   },
   {
     "name": "Mortar Sentry",
     "sequence": "DURRD",
     "image": "sentry_mortar.svg",
-    "category": "Sentry",
-    "source": "Robotics Workshop",
-    "color": "green"
+    "lists": [
+      "Sentry",
+      "Robotics Workshop",
+      "Green",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Rocket Sentry",
     "sequence": "DURRL",
     "image": "sentry_rocket.svg",
-    "category": "Sentry",
-    "source": "Robotics Workshop",
-    "color": "green"
+    "lists": [
+      "Sentry",
+      "Robotics Workshop",
+      "Green",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Tesla Tower",
     "sequence": "DURULR",
     "image": "sentry_tesla_tower.svg",
-    "category": "Sentry",
-    "source": "Bridge",
-    "color": "green"
+    "lists": [
+      "Sentry",
+      "Bridge",
+      "Green",
+      "BonusHero"
+    ]
   },
   {
     "name": "EMS Mortar Sentry",
     "sequence": "DURDR",
     "image": "sentry_mortar_ems.svg",
-    "category": "Sentry",
-    "source": "Robotics Workshop",
-    "color": "green"
+    "lists": [
+      "Sentry",
+      "Robotics Workshop",
+      "Green",
+      "BonusHero"
+    ]
   },
   {
     "name": "Laser Sentry",
     "sequence": "DURDR",
     "image": "sentry_laser.svg",
-    "category": "Sentry",
-    "source": "Control Group",
-    "color": "green"
+    "lists": [
+      "Sentry",
+      "Control Group",
+      "Green",
+      "BonusHero"
+    ]
   },
   {
     "name": "Flame Sentry",
     "sequence": "DURDR",
     "image": "sentry_flamethrower.svg",
-    "category": "Sentry",
-    "source": "Urban Legends",
-    "color": "green"
+    "lists": [
+      "Sentry",
+      "Urban Legends",
+      "Green",
+      "BonusHero"
+    ]
   },
   {
     "name": "Gas Mortar Sentry",
     "sequence": "DURDR",
     "image": "sentry_mortar_gas.svg",
-    "category": "Sentry",
-    "source": "Entrenched Division",
-    "color": "green"
+    "lists": [
+      "Sentry",
+      "Entrenched Division",
+      "Green",
+      "BonusHero"
+    ]
   },
-
-
-
 
 
 
@@ -597,112 +766,137 @@
     "name": "Supply Pack",
     "sequence": "DLDUUD",
     "image": "backpack_supply.svg",
-    "category": "Backpack",
-    "source": "Engineering Bay",
-    "color": "blue"
+    "lists": [
+      "Backpack",
+      "Engineering Bay",
+      "Blue"
+    ]
   },
   {
     "name": "Jump Pack",
     "sequence": "DUUDU",
     "image": "backpack_jump.svg",
-    "category": "Backpack",
-    "source": "Hangar",
-    "color": "blue"
+    "lists": [
+      "Backpack",
+      "Hangar",
+      "Blue",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Ballistic Shield Backpack",
     "sequence": "DLDDUL",
     "image": "backpack_ballistic_shield.svg",
-    "category": "Backpack",
-    "source": "Engineering Bay",
-    "color": "blue"
+    "lists": [
+      "Backpack",
+      "Engineering Bay",
+      "Blue"
+    ]
   },
   {
     "name": "Guard Dog",
     "sequence": "DULURD",
     "image": "backpack_guard_dog.svg",
-    "category": "Backpack",
-    "source": "Engineering Bay",
-    "color": "blue"
+    "lists": [
+      "Backpack",
+      "Engineering Bay",
+      "Blue",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Rover",
     "sequence": "DULURR",
     "image": "backpack_guard_dog_rover.svg",
-    "category": "Backpack",
-    "source": "Robotics Workshop",
-    "color": "blue"
+    "lists": [
+      "Backpack",
+      "Robotics Workshop",
+      "Blue"
+    ]
   },
   {
     "name": "Shield Generator Pack",
     "sequence": "DULRLR",
     "image": "backpack_shield_generator.svg",
-    "category": "Backpack",
-    "source": "Engineering Bay",
-    "color": "blue"
+    "lists": [
+      "Backpack",
+      "Engineering Bay",
+      "Blue",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Directional Shield",
     "sequence": "DULRUU",
     "image": "backpack_directional_shield.svg",
-    "category": "Backpack",
-    "source": "Urban Legends",
-    "color": "blue"
+    "lists": [
+      "Backpack",
+      "Urban Legends",
+      "Blue"
+    ]
   },
   {
     "name": "Hot Dog",
     "sequence": "DULULL",
     "image": "backpack_guard_dog_hot.svg",
-    "category": "Backpack",
-    "source": "Python Commandos",
-    "color": "blue"
+    "lists": [
+      "Backpack",
+      "Python Commandos",
+      "Blue"
+    ]
   },
   {
     "name": "Protable Hellbomb",
     "sequence": "DLUUU",
     "image": "backpack_hellbomb.svg",
-    "category": "Backpack",
-    "source": "Servants of Freedom",
-    "color": "blue"
+    "lists": [
+      "Backpack",
+      "Servants of Freedom",
+      "Blue"
+    ]
   },
   {
     "name": "K-9",
     "sequence": "DULURL",
     "image": "backpack_guard_dog_k9.svg",
-    "category": "Backpack",
-    "source": "Force of Law",
-    "color": "blue"
+    "lists": [
+      "Backpack",
+      "Force of Law",
+      "Blue",
+      "BonusHero"
+    ]
   },
   {
     "name": "Hover Pack",
     "sequence": "DUUDLR",
     "image": "backpack_name.svg",
-    "category": "Backpack",
-    "source": "Borderline Justice",
-    "color": "blue"
+    "lists": [
+      "Backpack",
+      "Borderline Justice",
+      "Blue"
+    ]
   },
   {
     "name": "Dog Breath",
     "sequence": "DULURU",
     "image": "backpack_guard_dog_breath.svg",
-    "category": "Backpack",
-    "source": "Chemical Agents",
-    "color": "blue"
+    "lists": [
+      "Backpack",
+      "Chemical Agents",
+      "Blue"
+    ]
   },
   {
     "name": "Warp Pack",
     "sequence": "DLRDLR",
     "image": "backpack_name.svg",
-    "category": "Backpack",
-    "source": "Control Group",
-    "color": "blue"
+    "lists": [
+      "Backpack",
+      "Control Group",
+      "Blue",
+      "BonusHero"
+    ]
   },
-
-
-
-
-
-
 
 
 
@@ -712,34 +906,45 @@
     "name": "Patriot Exosuit",
     "sequence": "LDRULDD",
     "image": "vehicle_exosuit_patriot.svg",
-    "category": "Vehicle",
-    "source": "Robotics Workshop",
-    "color": "yellow"
+    "lists": [
+      "Vehicle",
+      "Robotics Workshop",
+      "Yellow"
+    ]
   },
   {
     "name": "Emancipator Exosuit",
     "sequence": "LDRULDU",
     "image": "vehicle_exosuit_emancipator.svg",
-    "category": "Vehicle",
-    "source": "Robotics Workshop",
-    "color": "yellow"
+    "lists": [
+      "Vehicle",
+      "Robotics Workshop",
+      "Yellow",
+      "BonusHero"
+    ]
   },
   {
     "name": "Fast Recon Vehicle",
     "sequence": "LDRDLDU",
     "image": "vehicle_frv.svg",
-    "category": "Vehicle",
-    "source": "Hangar",
-    "color": "blue"
+    "lists": [
+      "Vehicle",
+      "Hangar",
+      "Blue",
+      "BonusHero"
+    ]
   },
   {
     "name": "Bastion MK VXI",
     "sequence": "LDRDLDUDU",
     "image": "vehicle_bastion.svg",
-    "category": "Vehicle",
-    "source": "Hangar",
-    "color": "yellow"
+    "lists": [
+      "Vehicle",
+      "Hangar",
+      "Blue"
+    ]
   },
+
 
 
 
@@ -752,44 +957,57 @@
     "name": "Reinforce",
     "sequence": "UDRLU",
     "image": "mission_ship_reinforce.svg",
-    "category": "mission",
-    "source": "Ship",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Ship",
+      "Yellow",
+      "StratagemHero"
+    ]
   },
   {
     "name": "Resupply",
     "sequence": "DDUR",
     "image": "mission_ship_resupply.svg",
-    "category": "mission",
-    "source": "Ship",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Ship",
+      "Yellow",
+      "StratagemHero"
+    ]
   },
   {
     "name": "SOS Beacon",
     "sequence": "UDRU",
     "image": "mission_ship_sos_beacon.svg",
-    "category": "mission",
-    "source": "Ship",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Ship",
+      "Yellow",
+      "BonusHero"
+    ]
   },
   {
     "name": "Eagle Rearm",
     "sequence": "UULUR",
     "image": "mission_ship_eagle_rearm.svg",
-    "category": "mission",
-    "source": "Ship",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Ship",
+      "Yellow",
+      "BonusHero"
+    ]
   },
   {
     "name": "Call Super Destroyer",
     "sequence": "UUDDLRLR",
     "image": "mission_ship_call_super_destroyer.svg",
-    "category": "mission",
-    "source": "Ship",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Ship",
+      "Yellow",
+      "BonusHero"
+    ]
   },
-
-
 
 
 
@@ -803,89 +1021,116 @@
     "name": "Hellbomb",
     "sequence": "DULDURDU",
     "image": "mission_objective_hellbomb.svg",
-    "category": "mission",
-    "source": "Objective",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Objective",
+      "Yellow",
+      "StratagemHero"
+    ]
   },
   {
     "name": "SEAF Artillery",
     "sequence": "RUUD",
     "image": "mission_objective_seaf_artillery.svg",
-    "category": "mission",
-    "source": "Objective",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Objective",
+      "Yellow"
+    ]
   },
   {
     "name": "Super Earth Flag",
     "sequence": "DUDU",
     "image": "mission_objective_super_earth_flag.svg",
-    "category": "mission",
-    "source": "Objective",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Objective",
+      "Yellow"
+    ]
   },
   {
     "name": "Upload Data",
     "sequence": "LRUUU",
     "image": "mission_objective_upload_data.svg",
-    "category": "mission",
-    "source": "Objective",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Objective",
+      "Yellow",
+      "BonusHero"
+    ]
   },
   {
     "name": "SSSD Delivery",
     "sequence": "DDDDDUU",
     "image": "mission_objective_upload_data.svg",
-    "category": "mission",
-    "source": "Objective",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Objective",
+      "Yellow"
+    ]
   },
   {
     "name": "Seismic Probe",
     "sequence": "UULRDD",
     "image": "mission_objective_seismic_probe.svg",
-    "category": "mission",
-    "source": "Objective",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Objective",
+      "Yellow",
+      "BonusHero"
+    ]
   },
   {
     "name": "Prospecting Drill",
     "sequence": "DDLRDD",
     "image": "mission_objective_prospecting_drill.svg",
-    "category": "mission",
-    "source": "Objective",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Objective",
+      "Yellow"
+    ]
   },
   {
     "name": "Dark Fluid Vessel",
     "sequence": "ULRDUU",
     "image": "mission_objective_dark_fluid_vessel.svg",
-    "category": "mission",
-    "source": "Objective",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Objective",
+      "Yellow",
+      "BonusHero"
+    ]
   },
   {
     "name": "Tectonic Drill",
     "sequence": "UDUDUD",
     "image": "mission_objective_tectonic_drill.svg",
-    "category": "mission",
-    "source": "Objective",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Objective",
+      "Yellow"
+    ]
   },
   {
     "name": "Hive Breaker Drill",
     "sequence": "LUDRDD",
     "image": "mission_objective_hive_breaker_drill.svg",
-    "category": "mission",
-    "source": "Objective",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Objective",
+      "Yellow",
+      "BonusHero"
+    ]
   },
   {
     "name": "Cargo Container",
     "sequence": "UUDDRD",
     "image": "mission_objective_cargo_container.svg",
-    "category": "mission",
-    "source": "Objective",
-    "color": "yellow"
+    "lists": [
+      "Mission",
+      "Objective",
+      "Yellow"
+    ]
   },
 
 
@@ -894,8 +1139,11 @@
     "name": "Orbital Illumination Flare",
     "sequence": "RRLL",
     "image": "other_arcade_flare.svg",
-    "category": "other",
-    "source": "Arcade Machine",
-    "color": "yellow"
+    "lists": [
+      "other",
+      "Arcade Machine",
+      "Yellow",
+      "BonusHero"
+    ]
   }
 ]
