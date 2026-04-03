@@ -161,7 +161,7 @@
   },
   {
     "name": "Expendable Napalm",
-    "sequence": "DDLUR",
+    "sequence": "DDLUL",
     "image": "weapon_expendable_napalm.svg",
     "category": "weapon",
     "source": "Dust Devils",
@@ -169,7 +169,7 @@
   },
   {
     "name": "Leveller",
-    "sequence": "DDRLUD",
+    "sequence": "DDLUD",
     "image": "weapon_leveller.svg",
     "category": "weapon",
     "source": "Siege Breakers",
@@ -594,7 +594,7 @@
   },
   {
     "name": "Call Super Destroyer",
-    "sequence": "UULUR",
+    "sequence": "UUDDLRLR",
     "image": "mission_ship_call_super_destroyer.svg",
     "category": "mission",
     "source": "Ship",
@@ -689,6 +689,25 @@
     "image": "mission_objective_hive_breaker_drill.svg",
     "category": "mission",
     "source": "Objective",
+    "color": "yellow"
+  },
+  {
+    "name": "Cargo Container",
+    "sequence": "UUDDRD",
+    "image": "mission_objective_cargo_container.svg",
+    "category": "mission",
+    "source": "Objective",
+    "color": "yellow"
+  },
+
+
+
+  {
+    "name": "Orbital Illumination Flare",
+    "sequence": "LRUUU",
+    "image": "other_arcade_flare.svg",
+    "category": "other",
+    "source": "Arcade Machine",
     "color": "yellow"
   }
 ]
