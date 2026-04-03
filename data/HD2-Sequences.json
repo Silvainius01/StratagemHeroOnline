@@ -2,7 +2,7 @@
   {
     "name": "Machine Gun",
     "sequence": "DLDUR",
-    "image": "Weapon_machine_gun.svg",
+    "image": "weapon_machine_gun.svg",
     "lists": [
       "Weapon",
       "Patriotic Administration Center",
@@ -13,7 +13,7 @@
   {
     "name": "Expendable Anti-Tank",
     "sequence": "DDLUR",
-    "image": "Weapon_expendable_anti-tank.svg",
+    "image": "weapon_expendable_anti-tank.svg",
     "lists": [
       "Weapon",
       "Patriotic Administration Center",
@@ -24,7 +24,7 @@
   {
     "name": "Stalwart",
     "sequence": "DLDUUL",
-    "image": "Weapon_stalwart.svg",
+    "image": "weapon_stalwart.svg",
     "lists": [
       "Weapon",
       "Patriotic Administration Center",
@@ -35,7 +35,7 @@
   {
     "name": "Laser Cannon",
     "sequence": "DLDUL",
-    "image": "Weapon_laser_cannon.svg",
+    "image": "weapon_laser_cannon.svg",
     "lists": [
       "Weapon",
       "Engineering Bay",
@@ -46,7 +46,7 @@
   {
     "name": "Anti-Materiel Rifle",
     "sequence": "DLRUD",
-    "image": "Weapon_anti-materiel_rifle.svg",
+    "image": "weapon_anti-materiel_rifle.svg",
     "lists": [
       "Weapon",
       "Patriotic Administration Center",
@@ -57,7 +57,7 @@
   {
     "name": "Recoilless Rifle",
     "sequence": "DLRRL",
-    "image": "Weapon_recoilless_rifle.svg",
+    "image": "weapon_recoilless_rifle.svg",
     "lists": [
       "Weapon",
       "Patriotic Administration Center",
@@ -68,7 +68,7 @@
   {
     "name": "Grenade Launcher",
     "sequence": "DLULD",
-    "image": "Weapon_grenade_launcher.svg",
+    "image": "weapon_grenade_launcher.svg",
     "lists": [
       "Weapon",
       "Engineering Bay",
@@ -78,7 +78,7 @@
   {
     "name": "Flamethrower",
     "sequence": "DLUDU",
-    "image": "Weapon_flamethrower.svg",
+    "image": "weapon_flamethrower.svg",
     "lists": [
       "Weapon",
       "Patriotic Administration Center",
@@ -88,7 +88,7 @@
   {
     "name": "Heavy Machine Gun MG-101",
     "sequence": "DLUDD",
-    "image": "Weapon_heavy_machine_gun.svg",
+    "image": "weapon_heavy_machine_gun.svg",
     "lists": [
       "Weapon",
       "Patriotic Administration Center",
@@ -99,7 +99,7 @@
   {
     "name": "Autocannon",
     "sequence": "DLDUUR",
-    "image": "Weapon_autocannon.svg",
+    "image": "weapon_autocannon.svg",
     "lists": [
       "Weapon",
       "Patriotic Administration Center",
@@ -110,7 +110,7 @@
   {
     "name": "Arc Thrower",
     "sequence": "DRDULL",
-    "image": "Weapon_arc_thrower.svg",
+    "image": "weapon_arc_thrower.svg",
     "lists": [
       "Weapon",
       "Engineering Bay",
@@ -120,7 +120,7 @@
   {
     "name": "Quasar Cannon LAS-99",
     "sequence": "DDULR",
-    "image": "Weapon_quasar_cannon.svg",
+    "image": "weapon_quasar_cannon.svg",
     "lists": [
       "Weapon",
       "Engineering Bay",
@@ -130,7 +130,7 @@
   {
     "name": "Airburst Rocket Launcher",
     "sequence": "DUULR",
-    "image": "Weapon_airburst_rocket_launcher.svg",
+    "image": "weapon_airburst_rocket_launcher.svg",
     "lists": [
       "Weapon",
       "Patriotic Administration Center",
@@ -140,7 +140,7 @@
   {
     "name": "Commando",
     "sequence": "DLUDR",
-    "image": "Weapon_commando.svg",
+    "image": "weapon_commando.svg",
     "lists": [
       "Weapon",
       "Patriotic Administration Center",
@@ -150,7 +150,7 @@
   {
     "name": "Spear",
     "sequence": "DDUDD",
-    "image": "Weapon_spear.svg",
+    "image": "weapon_spear.svg",
     "lists": [
       "Weapon",
       "Patriotic Administration Center",
@@ -160,7 +160,7 @@
   {
     "name": "Railgun",
     "sequence": "DRDULR",
-    "image": "Weapon_railgun.svg",
+    "image": "weapon_railgun.svg",
     "lists": [
       "Weapon",
       "Patriotic Administration Center",
@@ -171,7 +171,7 @@
   {
     "name": "WASP Launcher",
     "sequence": "DDUDR",
-    "image": "Weapon_wasp_launcher.svg",
+    "image": "weapon_wasp_launcher.svg",
     "lists": [
       "Weapon",
       "Patriotic Administration Center",
@@ -181,7 +181,7 @@
   {
     "name": "Breaching Hammer",
     "sequence": "DLRLU",
-    "image": "Weapon_breaching_hammer.svg",
+    "image": "weapon_breaching_hammer.svg",
     "lists": [
       "Weapon",
       "Siege Breakers",
@@ -191,7 +191,7 @@
   {
     "name": "Epoch",
     "sequence": "DLULR",
-    "image": "Weapon_epoch.svg",
+    "image": "weapon_epoch.svg",
     "lists": [
       "Weapon",
       "Control Group",
@@ -202,7 +202,7 @@
   {
     "name": "Spear Gun",
     "sequence": "DRDLUR",
-    "image": "Weapon_spear_gun.svg",
+    "image": "weapon_spear_gun.svg",
     "lists": [
       "Weapon",
       "Dust Devils",
@@ -213,7 +213,7 @@
   {
     "name": "Expendable Napalm",
     "sequence": "DDLUL",
-    "image": "Weapon_expendable_napalm.svg",
+    "image": "weapon_expendable_napalm.svg",
     "lists": [
       "Weapon",
       "Dust Devils",
@@ -223,7 +223,7 @@
   {
     "name": "Leveller",
     "sequence": "DDLUD",
-    "image": "Weapon_leveller.svg",
+    "image": "weapon_leveller.svg",
     "lists": [
       "Weapon",
       "Siege Breakers",
@@ -233,7 +233,7 @@
   {
     "name": "De-Escalator",
     "sequence": "DRULR",
-    "image": "Weapon_de-escalator.svg",
+    "image": "weapon_de-escalator.svg",
     "lists": [
       "Weapon",
       "Force of Law",
@@ -244,7 +244,7 @@
   {
     "name": "Defoliation Tool",
     "sequence": "DLRRD",
-    "image": "Weapon_defoliation_tool.svg",
+    "image": "weapon_defoliation_tool.svg",
     "lists": [
       "Weapon",
       "Python Commandos",
@@ -254,7 +254,7 @@
   {
     "name": "Sterilizer",
     "sequence": "DLUDL",
-    "image": "Weapon_sterilizer.svg",
+    "image": "weapon_sterilizer.svg",
     "lists": [
       "Weapon",
       "Chemical Agents",
@@ -264,7 +264,7 @@
   {
     "name": "Belt-Fed Grenade Launcher",
     "sequence": "DLULUU",
-    "image": "Weapon_belt_fed_grenade_launcher.svg",
+    "image": "weapon_belt_fed_grenade_launcher.svg",
     "lists": [
       "Weapon",
       "Siege Breakers",
@@ -274,7 +274,7 @@
   {
     "name": "Solo Silo",
     "sequence": "DURDD",
-    "image": "Weapon_solo_silo.svg",
+    "image": "weapon_solo_silo.svg",
     "lists": [
       "Weapon",
       "Dust Devils",
@@ -284,7 +284,7 @@
   {
     "name": "Cremator",
     "sequence": "DDRDUU",
-    "image": "Weapon_cremator.svg",
+    "image": "weapon_cremator.svg",
     "lists": [
       "Weapon",
       "Entrenched Division",
@@ -294,7 +294,7 @@
   {
     "name": "Maxigun",
     "sequence": "DLRDUU",
-    "image": "Weapon_maxigun.svg",
+    "image": "weapon_maxigun.svg",
     "lists": [
       "Weapon",
       "Python Commandos",
@@ -304,7 +304,7 @@
   {
     "name": "C4 Pack",
     "sequence": "DRUURU",
-    "image": "Weapon_c4_pack.svg",
+    "image": "weapon_c4_pack.svg",
     "lists": [
       "Weapon",
       "Redacted Regiment",
@@ -315,7 +315,7 @@
   {
     "name": "One True Flag",
     "sequence": "DLRRU",
-    "image": "Weapon_one_true_flag.svg",
+    "image": "weapon_one_true_flag.svg",
     "lists": [
       "Weapon",
       "Masters of Ceremony",
