@@ -169,7 +169,7 @@
   },
   {
     "name": "Leveller",
-    "sequence": "DDLUD",
+    "sequence": "Ds",
     "image": "weapon_leveller.svg",
     "category": "weapon",
     "source": "Siege Breakers",
@@ -704,7 +704,7 @@
 
   {
     "name": "Orbital Illumination Flare",
-    "sequence": "LRUUU",
+    "sequence": "RRLL",
     "image": "other_arcade_flare.svg",
     "category": "other",
     "source": "Arcade Machine",
